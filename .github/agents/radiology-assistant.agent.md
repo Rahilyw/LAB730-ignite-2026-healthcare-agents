@@ -1,4 +1,4 @@
----
+chapters/chapter1-simple-agent/answer-key/.github/agents/radiology-assistant.agent.md---
 description: 'Radiology assistant that reads medical images and drafts reports.'
 name: 'Radiology Assistant'
 model: ['MAI-Code-1.1-Flash (copilot)']
